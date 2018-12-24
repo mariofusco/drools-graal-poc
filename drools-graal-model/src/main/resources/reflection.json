@@ -1,0 +1,9 @@
+[
+  {
+    "name" : "org.drools.simple.project.Person",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  }
+]
