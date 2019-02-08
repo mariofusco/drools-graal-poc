@@ -15,13 +15,18 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <generateModel>YES</generateModel>
-    <version.drools>7.16.0-SNAPSHOT</version.drools>
+    <version.drools>7.18.0-SNAPSHOT</version.drools>
   </properties>
 
   <dependencies>
     <dependency>
       <groupId>org.drools</groupId>
       <artifactId>drools-model-compiler</artifactId>
+      <version>${version.drools}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.kie</groupId>
+        <artifactId>kie-maven-plugin</artifactId>
       <version>${version.drools}</version>
     </dependency>
   </dependencies>

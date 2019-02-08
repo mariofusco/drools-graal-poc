@@ -11,27 +11,135 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.drools:drools-model-compiler:7.16.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.drools:drools-model-compiler:7.18.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.mvel:mvel2:2.4.3.Final" level="project" />
-    <orderEntry type="library" name="Maven: org.kie:kie-api:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.kie:kie-internal:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-project-datamodel-commons:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-commons:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-project-datamodel-api:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-maven-support:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.drools:drools-canonical-model:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.drools:drools-core-reflective:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.drools:drools-core:7.16.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.drools:drools-core-dynamic:7.16.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-api:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-internal:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-project-datamodel-commons:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-commons:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-maven-support:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.drools:drools-canonical-model:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.drools:drools-core:7.18.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.10" level="project" />
-    <orderEntry type="library" name="Maven: org.drools:drools-compiler:7.16.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.drools:drools-compiler:7.18.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.antlr:antlr-runtime:3.5.2" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.6.1" level="project" />
     <orderEntry type="library" name="Maven: com.thoughtworks.xstream:xstream:1.4.10" level="project" />
     <orderEntry type="library" name="Maven: xmlpull:xmlpull:1.1.3.1" level="project" />
     <orderEntry type="library" name="Maven: xpp3:xpp3_min:1.1.4c" level="project" />
-    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
-    <orderEntry type="library" name="Maven: org.drools:drlx-parser:7.16.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.drools:drlx-parser:7.18.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-maven-plugin:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-artifact:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:3.0.22" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-core:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-model:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-settings:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-settings-builder:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-builder-support:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-repository-metadata:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-model-builder:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-aether-provider:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.aether:aether-spi:1.0.2.v20150114" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.aether:aether-impl:1.0.2.v20150114" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.aether:aether-api:1.0.2.v20150114" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.aether:aether-util:1.0.2.v20150114" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject:guice:no_aop:4.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-interpolation:1.21" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-sec-dispatcher:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-cipher:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-api:3.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-component-annotations:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-classworlds:2.5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-container-default:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xbean:xbean-reflect:3.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.20.0-GA" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-decisiontables:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.poi:poi-ooxml:3.17" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.poi:poi-ooxml-schemas:3.17" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.virtuald:curvesapi:1.04" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: javax.xml.stream:stax-api:1.0-2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.poi:poi:3.17" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-templates:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-scorecards:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:kie-pmml:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.spec.javax.xml.bind:jboss-jaxb-api_2.3_spec:1.0.1.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.bind:jaxb-impl:2.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.bind:jaxb-core:2.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: javax.activation:activation:1.1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jbpm:jbpm-bpmn2:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jbpm:jbpm-flow-builder:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jbpm:jbpm-flow:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jbpm:jbpm-case-mgmt-cmmn:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-project-datamodel-api:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-workbench-models-guided-dtable:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.uberfire:uberfire-commons:2.15.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.activemq:artemis-jms-client:2.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.activemq:artemis-core-client:2.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jgroups:jgroups:3.6.13.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.activemq:artemis-commons:2.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.logging:jboss-logging:3.3.0.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: commons-beanutils:commons-beanutils:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.geronimo.specs:geronimo-json_1.0_spec:1.0-alpha-1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.johnzon:johnzon-core:0.9.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.activemq:artemis-selector:2.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.errai:errai-marshalling:4.5.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.errai:errai-common:4.5.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.jsinterop:jsinterop-annotations:1.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.errai.reflections:reflections:4.5.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: de.benediktmeurer.gwt-slf4j:gwt-slf4j:0.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.elemental2:elemental2-dom:1.0.0-beta-1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.jsinterop:base:1.0.0-beta-1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.elemental2:elemental2-core:1.0.0-beta-1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.elemental2:elemental2-promise:1.0.0-beta-1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.errai:errai-config:4.5.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.errai:errai-codegen:4.5.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.errai:errai-codegen-gwt:4.5.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: javax.enterprise:cdi-api:1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.spec.javax.jms:jboss-jms-api_2.0_spec:1.0.2.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-buffer:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-common:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-transport:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-resolver:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-handler:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-codec:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-transport-native-unix-common:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-transport-native-kqueue:osx-x86_64:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-codec-http:4.1.16.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-workbench-models-datamodel-api:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-workbench-models-commons:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-workbench-models-guided-template:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.drools:drools-workbench-models-guided-scorecard:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.optaplanner:optaplanner-workbench-models-datamodel-api:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.optaplanner:optaplanner-core:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.commons:commons-math3:3.4.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:25.0-jre" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-compat-qual:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.reflections:reflections:0.9.11" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-core:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-model:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-backend:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-feel:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: ch.obermuhlner:big-math:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.5.3" level="project" />
+    <orderEntry type="library" name="Maven: org.kie:kie-dmn-api:7.18.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.12" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-exec:1.3" level="project" />
   </component>
 </module>
