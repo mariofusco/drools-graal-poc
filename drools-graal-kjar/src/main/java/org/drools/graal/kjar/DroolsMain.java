@@ -36,7 +36,8 @@ public class DroolsMain {
         }
 
         mark.setAge( 34 );
-        ksession.update( markFH, mark, "age" );
+//        ksession.update( markFH, mark, "age" );
+        ksession.update( markFH, mark );
 
         ksession.fireAllRules();
         if (!"Edson is older than Mark".equals( result.getValue() )) {
