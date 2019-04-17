@@ -1,10 +1,16 @@
 package org.drools.simple.project
 
-rule R when
+rule R1 when
         $r : Result()
-        $p1 : Person( name == "Mark" )
-        $p2 : Person( name != "Mark", age > $p1.age )
+        $p : Person( age >= 18 )
     then
-        $r.setValue( $p2.getName() + " is older than " + $p1.getName());
+        $r.setValue( $p.getName() + " can drink");
+end
+
+rule R2 when
+        $r : Result()
+        $p : Person( age < 18 )
+    then
+        $r.setValue( $p.getName() + " can NOT drink");
 end
 
