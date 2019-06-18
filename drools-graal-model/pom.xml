@@ -15,17 +15,17 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <drools.version>8.0.0-SNAPSHOT</drools.version>
+        <drools.version>0.1.2</drools.version>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>org.drools</groupId>
+            <groupId>org.kie.kogito</groupId>
             <artifactId>drools-core-static</artifactId>
             <version>${drools.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.drools</groupId>
+            <groupId>org.kie.kogito</groupId>
             <artifactId>drools-model-compiler</artifactId>
             <version>${drools.version}</version>
             <exclusions>
